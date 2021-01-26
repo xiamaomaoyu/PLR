@@ -3,4 +3,4 @@ project(PLR)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(PLR main.cpp geo.cpp geo.h)
+add_executable(PLR main.cpp geo.cpp geo.h segment.cpp segment.h)
